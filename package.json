@@ -1,0 +1,8 @@
+{
+  "name": "RiseInBrideTurbine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DogukanGun/RiseInBrideTurbine.git",
+  "author": "Dogukan Ali Gundogan <59707019+DogukanGun@users.noreply.github.com>",
+  "license": "MIT"
+}
