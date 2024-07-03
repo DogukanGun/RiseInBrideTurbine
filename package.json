@@ -4,5 +4,10 @@
   "main": "index.js",
   "repository": "https://github.com/DogukanGun/RiseInBrideTurbine.git",
   "author": "Dogukan Ali Gundogan <59707019+DogukanGun@users.noreply.github.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@coral-xyz/anchor": "0.30.0",
+    "@solana/web3.js": "1.91.8",
+    "rpc-websockets": "7.11.0"
+  }
 }
